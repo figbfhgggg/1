@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/id_position"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/name"
+        android:background="@drawable/border"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/score_1"
+        android:background="@drawable/border"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/score_2"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/score_3"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/achievements"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/score_total"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/rights"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/education_doc"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/agree"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/olympiad"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/special_rights"
+        android:background="@drawable/border"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/order"
+        android:background="@drawable/border"
+        android:gravity="center"/>
+
+</TableRow>
